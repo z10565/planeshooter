@@ -1,4 +1,4 @@
-PlaneShooter (Tiny Tapeout VGA Airplane Game)
+## PlaneShooter (Tiny Tapeout VGA Airplane Game)
 
 ## How it works
 PlaneShooter is a digital arcade game written in Verilog. It generates a 640x480 VGA
