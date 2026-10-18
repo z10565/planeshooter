@@ -304,7 +304,7 @@ endmodule
 // Requires a ~25 MHz clock, Tiny VGA Pmod, and stable 3.3V digital inputs.
 // Change module name to a UNIQUE tt_um_<your_id> before actual submission.
 `default_nettype none
-module tt_um_z10565_4_bit_binary_counter (
+module tt_um_skypilot (
     input  wire [7:0] ui_in,
     output wire [7:0] uo_out,
     input  wire [7:0] uio_in,
